@@ -1,2 +1,2 @@
 # CTPSum-FDIMD
-CTPSum-FDIMD dataset
+CTPSum-FIDMD dataset
